@@ -1,1 +1,1 @@
-we jdekwjdnprint("hi bud 200")
+print("hi bud 200")
